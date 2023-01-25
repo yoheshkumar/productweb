@@ -1,47 +1,38 @@
-# Web Design for a Software Product Company
-
+# Product Company Website
 ## AIM:
+To develop a static company website to display the sale of products.
 
-To design a static website for a software product company company.
-
-## DESIGN STEPS:
+## Design Steps:
 
 ### Step 1:
-
 Requirement collection.
 
 ### Step 2:
-
 Creating the layout using HTML and CSS.
 
 ### Step 3:
-
 Updating the sample content.
 
 ### Step 4:
-
 Choose the appropriate style and color scheme.
 
 ### Step 5:
-
 Validate the layout in various browsers.
 
 ### Step 6:
-
 Validate the HTML code.
 
-### Step 6:
-
+### Step 7:
 Publish the website in the given URL.
 
-## PROGRAM :
+## Code:
 
-## OUTPUT:
 
-### Home Page:
+## Output:
 
-![output](./images/homepage.jpg)
+
+## HTML Validator
+
 
 ## Result:
-
-Thus a website is designed for the software product company and the HTML,CSS code are validated.
+The program for designing company website for sale of products using HTML and CSS is completed successfully.
